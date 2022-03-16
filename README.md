@@ -1,4 +1,4 @@
-# Manifesto
+# Manifesto [UA](https://github.com/Cartesianism/Manifesto/blob/main/README.ua.md)
 
 ## Gratitude
 
