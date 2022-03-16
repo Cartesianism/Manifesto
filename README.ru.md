@@ -1,4 +1,5 @@
 # Манифест
+[EN](https://github.com/Cartesianism/Manifesto/blob/main/README.md) | [UA](https://github.com/Cartesianism/Manifesto/blob/main/README.ua.md) | [RU](https://github.com/Cartesianism/Manifesto/blob/main/README.ru.md)
 
 ## Благодарность
 
